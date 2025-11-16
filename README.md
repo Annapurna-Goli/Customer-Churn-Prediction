@@ -165,4 +165,7 @@ This project implements a complete end-to-end workflow for predicting customer c
   * Cleaned, scaled, and transformed datasets ready for deployment
 
 
+For support : annugoli007@gmail.com
+Find the project here: https://customer-churn-prediction-f8qf.onrender.com
+
 
