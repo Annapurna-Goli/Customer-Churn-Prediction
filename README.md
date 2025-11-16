@@ -1,8 +1,4 @@
-Got it. We can make the README visually more appealing by adding relevant **icons/emojis** next to each section. Here’s your professional version with subtle icons for GitHub readability:
-
----
-
-# 📊 Telecom Customer Churn Prediction
+📊 Telecom Customer Churn Prediction
 
 This project implements a complete end-to-end workflow for predicting customer churn in a telecom dataset. It covers data preprocessing, feature engineering, model training, and evaluation, ensuring reproducibility and scalability.
 
