@@ -1,0 +1,629 @@
+2025-11-06 15:46:21,791 - variabletrans - INFO - Yeo-Johnson transformation completed successfully.
+2025-11-06 15:46:21,792 - variabletrans - INFO - Starting visualization for Log Transform
+2025-11-06 15:47:04,078 - variabletrans - INFO - Log transformation completed successfully for ['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson', 'SeniorCitizen_log', 'tenure_log', 'MonthlyCharges_log', 'TotalCharges_knn_log', 'SeniorCitizen_yeojohnson_log', 'tenure_yeojohnson_log', 'MonthlyCharges_yeojohnson_log', 'TotalCharges_knn_yeojohnson_log']
+2025-11-06 15:47:04,079 - variabletrans - INFO - Completed visualization for Log Transform
+2025-11-06 15:47:04,079 - variabletrans - INFO - Starting visualization for Reciprocal Transform
+2025-11-06 15:48:45,353 - variabletrans - INFO - Reciprocal transformation completed successfully.
+2025-11-06 15:48:45,353 - variabletrans - INFO - Completed visualization for Reciprocal Transform
+2025-11-06 15:48:45,353 - variabletrans - INFO - Starting visualization for Square Root Transform
+2025-11-06 15:53:58,696 - variabletrans - INFO - Square root transformation completed successfully.
+2025-11-06 15:53:58,696 - variabletrans - INFO - Completed visualization for Square Root Transform
+2025-11-06 15:53:58,697 - variabletrans - INFO - Starting visualization for Exponential Transform
+2025-11-06 16:25:14,903 - variabletrans - INFO - Yeo-Johnson transformation completed successfully.
+2025-11-06 16:25:14,903 - variabletrans - INFO - Starting visualization for Log Transform
+2025-11-06 16:25:30,003 - variabletrans - INFO - Log transformation completed successfully for ['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson', 'SeniorCitizen_log', 'tenure_log', 'MonthlyCharges_log', 'TotalCharges_knn_log']
+2025-11-06 16:25:30,003 - variabletrans - INFO - Completed visualization for Log Transform
+2025-11-06 16:25:30,003 - variabletrans - INFO - Starting visualization for Reciprocal Transform
+2025-11-06 16:25:45,906 - variabletrans - INFO - Reciprocal transformation completed successfully.
+2025-11-06 16:25:45,906 - variabletrans - INFO - Completed visualization for Reciprocal Transform
+2025-11-06 16:25:45,906 - variabletrans - INFO - Starting visualization for Square Root Transform
+2025-11-06 16:25:59,007 - variabletrans - INFO - Square root transformation completed successfully.
+2025-11-06 16:25:59,007 - variabletrans - INFO - Completed visualization for Square Root Transform
+2025-11-06 16:25:59,007 - variabletrans - INFO - Starting visualization for Exponential Transform
+2025-11-06 16:26:13,426 - variabletrans - INFO - Exponential transformation completed successfully.
+2025-11-06 16:26:13,427 - variabletrans - INFO - Completed visualization for Exponential Transform
+2025-11-06 16:26:13,427 - variabletrans - INFO - Starting visualization for BoxCox Transform
+2025-11-06 16:26:31,218 - variabletrans - INFO - BoxCox transformation completed successfully.
+2025-11-06 16:26:31,218 - variabletrans - INFO - Completed visualization for BoxCox Transform
+2025-11-06 16:26:31,218 - variabletrans - INFO - Starting visualization for Yeo-Johnson Transform
+2025-11-06 16:28:13,025 - variabletrans - INFO - Yeo-Johnson transformation completed successfully.
+2025-11-06 16:28:13,025 - variabletrans - INFO - Completed visualization for Yeo-Johnson Transform
+2025-11-06 16:28:13,026 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-06 18:31:27,566 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-06 18:31:27,567 - variabletrans - INFO - Starting visualization for Log Transform
+2025-11-06 18:31:41,959 - variabletrans - INFO - Log transformation completed successfully for 
+2025-11-06 18:31:41,959 - variabletrans - INFO - Completed visualization for Log Transform
+2025-11-06 18:31:41,960 - variabletrans - INFO - Starting visualization for Reciprocal Transform
+2025-11-06 18:31:56,923 - variabletrans - INFO - Reciprocal transformation completed successfully.
+2025-11-06 18:31:56,924 - variabletrans - INFO - Completed visualization for Reciprocal Transform
+2025-11-06 18:31:56,924 - variabletrans - INFO - Starting visualization for Square Root Transform
+2025-11-06 18:32:11,929 - variabletrans - INFO - Square root transformation completed successfully.
+2025-11-06 18:32:11,929 - variabletrans - INFO - Completed visualization for Square Root Transform
+2025-11-06 18:32:11,929 - variabletrans - INFO - Starting visualization for Exponential Transform
+2025-11-06 18:32:25,215 - variabletrans - INFO - Exponential transformation completed successfully.
+2025-11-06 18:32:25,215 - variabletrans - INFO - Completed visualization for Exponential Transform
+2025-11-06 18:32:25,215 - variabletrans - INFO - Starting visualization for BoxCox Transform
+2025-11-06 18:32:42,566 - variabletrans - INFO - BoxCox transformation completed successfully.
+2025-11-06 18:32:42,567 - variabletrans - INFO - Completed visualization for BoxCox Transform
+2025-11-06 18:32:42,567 - variabletrans - INFO - Starting visualization for Yeo-Johnson Transform
+2025-11-06 18:32:58,105 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson', 'SeniorCitizen_log', 'tenure_log', 'MonthlyCharges_log', 'TotalCharges_knn_log', 'SeniorCitizen_reciprocal', 'tenure_reciprocal', 'MonthlyCharges_reciprocal', 'TotalCharges_knn_reciprocal', 'SeniorCitizen_sqrt', 'tenure_sqrt', 'MonthlyCharges_sqrt', 'TotalCharges_knn_sqrt', 'SeniorCitizen_exp', 'tenure_exp', 'MonthlyCharges_exp', 'TotalCharges_knn_exp', 'SeniorCitizen_boxcox', 'tenure_boxcox', 'MonthlyCharges_boxcox', 'TotalCharges_knn_boxcox']
+2025-11-06 18:32:58,106 - variabletrans - INFO - Completed visualization for Yeo-Johnson Transform
+2025-11-06 18:32:58,106 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 01:17:57,818 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 01:17:57,820 - variabletrans - INFO - Yeo-Johnson transformation col names:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 01:17:57,820 - variabletrans - INFO - Starting visualization for Log Transform
+2025-11-07 01:18:20,922 - variabletrans - INFO - Log transformation completed successfully for 
+2025-11-07 01:18:20,923 - variabletrans - INFO - Completed visualization for Log Transform
+2025-11-07 01:18:20,923 - variabletrans - INFO - Starting visualization for Reciprocal Transform
+2025-11-07 01:18:39,369 - variabletrans - INFO - Reciprocal transformation completed successfully.
+2025-11-07 01:18:39,370 - variabletrans - INFO - Completed visualization for Reciprocal Transform
+2025-11-07 01:18:39,370 - variabletrans - INFO - Starting visualization for Square Root Transform
+2025-11-07 01:18:54,311 - variabletrans - INFO - Square root transformation completed successfully.
+2025-11-07 01:18:54,312 - variabletrans - INFO - Completed visualization for Square Root Transform
+2025-11-07 01:18:54,312 - variabletrans - INFO - Starting visualization for Exponential Transform
+2025-11-07 01:19:09,866 - variabletrans - INFO - Exponential transformation completed successfully.
+2025-11-07 01:19:09,866 - variabletrans - INFO - Completed visualization for Exponential Transform
+2025-11-07 01:19:09,867 - variabletrans - INFO - Starting visualization for BoxCox Transform
+2025-11-07 01:19:25,860 - variabletrans - INFO - BoxCox transformation completed successfully.
+2025-11-07 01:19:25,860 - variabletrans - INFO - Completed visualization for BoxCox Transform
+2025-11-07 01:19:25,860 - variabletrans - INFO - Starting visualization for Yeo-Johnson Transform
+2025-11-07 01:19:41,137 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson', 'SeniorCitizen_log', 'tenure_log', 'MonthlyCharges_log', 'TotalCharges_knn_log', 'SeniorCitizen_reciprocal', 'tenure_reciprocal', 'MonthlyCharges_reciprocal', 'TotalCharges_knn_reciprocal', 'SeniorCitizen_sqrt', 'tenure_sqrt', 'MonthlyCharges_sqrt', 'TotalCharges_knn_sqrt', 'SeniorCitizen_exp', 'tenure_exp', 'MonthlyCharges_exp', 'TotalCharges_knn_exp', 'SeniorCitizen_boxcox', 'tenure_boxcox', 'MonthlyCharges_boxcox', 'TotalCharges_knn_boxcox']
+2025-11-07 01:19:41,138 - variabletrans - INFO - Yeo-Johnson transformation col names:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson', 'SeniorCitizen_log', 'tenure_log', 'MonthlyCharges_log', 'TotalCharges_knn_log', 'SeniorCitizen_reciprocal', 'tenure_reciprocal', 'MonthlyCharges_reciprocal', 'TotalCharges_knn_reciprocal', 'SeniorCitizen_sqrt', 'tenure_sqrt', 'MonthlyCharges_sqrt', 'TotalCharges_knn_sqrt', 'SeniorCitizen_exp', 'tenure_exp', 'MonthlyCharges_exp', 'TotalCharges_knn_exp', 'SeniorCitizen_boxcox', 'tenure_boxcox', 'MonthlyCharges_boxcox', 'TotalCharges_knn_boxcox']
+2025-11-07 01:19:41,138 - variabletrans - INFO - Completed visualization for Yeo-Johnson Transform
+2025-11-07 01:19:41,138 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 01:27:39,993 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 01:27:39,995 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn']
+2025-11-07 01:27:39,996 - variabletrans - INFO - Yeo-Johnson transformation col names:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 01:27:39,997 - variabletrans - INFO - Starting visualization for Log Transform
+2025-11-07 01:28:15,340 - variabletrans - INFO - Log transformation completed successfully for 
+2025-11-07 01:28:15,341 - variabletrans - INFO - Completed visualization for Log Transform
+2025-11-07 01:28:15,342 - variabletrans - INFO - Starting visualization for Reciprocal Transform
+2025-11-07 01:29:23,774 - variabletrans - INFO - Reciprocal transformation completed successfully.
+2025-11-07 01:29:23,776 - variabletrans - INFO - Completed visualization for Reciprocal Transform
+2025-11-07 01:29:23,776 - variabletrans - INFO - Starting visualization for Square Root Transform
+2025-11-07 01:29:38,106 - variabletrans - INFO - Square root transformation completed successfully.
+2025-11-07 01:29:38,108 - variabletrans - INFO - Completed visualization for Square Root Transform
+2025-11-07 01:29:38,109 - variabletrans - INFO - Starting visualization for Exponential Transform
+2025-11-07 01:29:53,123 - variabletrans - INFO - Exponential transformation completed successfully.
+2025-11-07 01:29:53,124 - variabletrans - INFO - Completed visualization for Exponential Transform
+2025-11-07 01:29:53,124 - variabletrans - INFO - Starting visualization for BoxCox Transform
+2025-11-07 01:30:11,566 - variabletrans - INFO - BoxCox transformation completed successfully.
+2025-11-07 01:30:11,567 - variabletrans - INFO - Completed visualization for BoxCox Transform
+2025-11-07 01:30:11,568 - variabletrans - INFO - Starting visualization for Yeo-Johnson Transform
+2025-11-07 01:30:29,000 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson', 'SeniorCitizen_log', 'tenure_log', 'MonthlyCharges_log', 'TotalCharges_knn_log', 'SeniorCitizen_reciprocal', 'tenure_reciprocal', 'MonthlyCharges_reciprocal', 'TotalCharges_knn_reciprocal', 'SeniorCitizen_sqrt', 'tenure_sqrt', 'MonthlyCharges_sqrt', 'TotalCharges_knn_sqrt', 'SeniorCitizen_exp', 'tenure_exp', 'MonthlyCharges_exp', 'TotalCharges_knn_exp', 'SeniorCitizen_boxcox', 'tenure_boxcox', 'MonthlyCharges_boxcox', 'TotalCharges_knn_boxcox']
+2025-11-07 01:30:29,001 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_log', 'tenure_log', 'MonthlyCharges_log', 'TotalCharges_knn_log', 'SeniorCitizen_reciprocal', 'tenure_reciprocal', 'MonthlyCharges_reciprocal', 'TotalCharges_knn_reciprocal', 'SeniorCitizen_sqrt', 'tenure_sqrt', 'MonthlyCharges_sqrt', 'TotalCharges_knn_sqrt', 'SeniorCitizen_exp', 'tenure_exp', 'MonthlyCharges_exp', 'TotalCharges_knn_exp', 'SeniorCitizen_boxcox', 'tenure_boxcox', 'MonthlyCharges_boxcox', 'TotalCharges_knn_boxcox']
+2025-11-07 01:30:29,003 - variabletrans - INFO - Yeo-Johnson transformation col names:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson', 'SeniorCitizen_log', 'tenure_log', 'MonthlyCharges_log', 'TotalCharges_knn_log', 'SeniorCitizen_reciprocal', 'tenure_reciprocal', 'MonthlyCharges_reciprocal', 'TotalCharges_knn_reciprocal', 'SeniorCitizen_sqrt', 'tenure_sqrt', 'MonthlyCharges_sqrt', 'TotalCharges_knn_sqrt', 'SeniorCitizen_exp', 'tenure_exp', 'MonthlyCharges_exp', 'TotalCharges_knn_exp', 'SeniorCitizen_boxcox', 'tenure_boxcox', 'MonthlyCharges_boxcox', 'TotalCharges_knn_boxcox']
+2025-11-07 01:30:29,003 - variabletrans - INFO - Completed visualization for Yeo-Johnson Transform
+2025-11-07 01:30:29,003 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 01:44:37,546 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 01:44:37,547 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn']
+2025-11-07 01:54:27,128 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 01:54:27,130 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 01:54:27,130 - variabletrans - INFO - Starting visualization for Log Transform
+2025-11-07 01:54:27,131 - variabletrans - ERROR - Issue in visualize_all_transformations: <class 'KeyError'>: 'SeniorCitizen' at line 155
+2025-11-07 02:02:32,546 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 02:02:32,548 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 02:02:32,548 - variabletrans - INFO - Starting visualization for Log Transform
+2025-11-07 02:02:32,549 - variabletrans - ERROR - Issue in visualize_all_transformations: <class 'KeyError'>: 'SeniorCitizen' at line 155
+2025-11-07 02:09:21,486 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 02:09:21,487 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 02:09:21,488 - variabletrans - INFO - Starting visualization for Log Transform
+2025-11-07 02:09:21,488 - variabletrans - ERROR - Issue in visualize_all_transformations: <class 'KeyError'>: 'SeniorCitizen' at line 156
+2025-11-07 02:10:34,525 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 02:10:34,527 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 02:10:34,528 - variabletrans - INFO - Starting visualization for Log Transform
+2025-11-07 02:10:34,528 - variabletrans - ERROR - Issue in visualize_all_transformations: <class 'KeyError'>: 'SeniorCitizen' at line 156
+2025-11-07 02:18:16,333 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 02:18:16,335 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 02:18:21,262 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 10:22:01,060 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 10:22:01,062 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 10:22:06,123 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 11:08:35,230 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 11:08:35,232 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 11:08:40,197 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 11:16:21,909 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 11:16:21,911 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 11:16:26,839 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 11:20:29,916 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 11:20:29,920 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 11:20:35,546 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 11:22:51,108 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 11:22:51,112 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 11:22:56,687 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 11:28:40,858 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 11:28:40,862 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 11:28:46,514 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 11:50:32,162 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 11:50:32,164 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 11:50:37,076 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 12:07:47,545 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 12:07:47,547 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 12:07:52,545 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 12:09:21,025 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 12:09:21,026 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 12:09:25,913 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 12:34:58,660 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 12:34:58,661 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 12:35:03,597 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 12:36:43,122 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 12:36:43,123 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 12:36:48,017 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 12:49:51,972 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 12:49:51,974 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 12:49:56,863 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 13:10:13,741 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 13:10:13,743 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 13:10:18,625 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 13:16:44,798 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 13:16:44,800 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 13:16:49,760 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 13:23:55,771 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 13:23:55,773 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 13:24:00,674 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 13:42:50,958 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 13:42:50,960 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 13:42:55,841 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 13:49:15,677 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 13:49:15,679 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 13:49:20,602 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 14:02:50,091 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 14:02:50,093 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 14:02:55,093 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 14:05:12,685 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 14:05:12,687 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 14:05:17,616 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 14:13:53,545 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 14:13:53,547 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 14:13:58,528 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 14:16:09,322 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 14:16:09,325 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 14:16:14,340 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 14:43:32,638 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 14:43:32,640 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 14:43:37,560 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 15:18:52,908 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 15:18:52,911 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 15:18:58,566 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 15:26:04,389 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 15:26:04,391 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 15:26:10,118 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 18:00:38,932 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 18:00:38,937 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 18:00:44,619 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 18:12:14,916 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 18:12:14,918 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 18:12:20,526 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 18:15:07,466 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 18:15:07,467 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 18:15:12,395 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 18:21:37,995 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 18:21:37,997 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 18:21:42,937 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 18:23:13,592 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 18:23:13,593 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 18:23:18,513 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 18:28:28,493 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 18:28:28,494 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 18:28:33,483 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 20:51:59,895 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 20:51:59,897 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 20:52:04,806 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 20:54:37,980 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 20:54:37,981 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 20:54:42,869 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 21:01:32,120 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 21:01:32,122 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 21:01:38,136 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 21:07:46,359 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 21:07:46,361 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 21:07:51,241 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 21:10:07,008 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 21:10:07,009 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 21:10:11,940 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 21:20:01,114 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 21:20:01,116 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 21:20:06,055 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 21:45:59,506 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 21:45:59,508 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 21:46:04,420 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 22:09:45,249 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 22:09:45,250 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 22:09:50,220 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 22:16:22,169 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 22:16:22,171 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 22:16:27,189 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 23:09:43,508 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 23:09:43,509 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 23:09:48,449 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 23:20:48,655 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 23:20:48,657 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 23:20:53,618 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-07 23:59:24,154 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 23:59:24,155 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 23:59:29,058 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 00:22:33,874 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 00:22:33,876 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 00:22:38,816 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 00:33:32,809 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 00:33:32,811 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 00:33:37,758 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 00:37:07,243 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 00:37:07,245 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 00:37:12,188 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 00:41:39,262 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 00:41:39,264 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 00:41:44,206 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 01:00:44,833 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 01:00:44,835 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 01:00:49,797 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 01:04:07,205 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 01:04:07,207 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 01:04:12,195 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 01:06:49,756 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 01:06:49,758 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 01:06:54,726 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 01:11:03,794 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 01:11:03,795 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 01:11:08,710 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 01:12:13,252 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 01:12:13,254 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 01:12:18,175 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 01:27:17,941 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 01:27:17,942 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 01:27:22,878 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 01:55:01,609 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 01:55:01,612 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 01:55:06,598 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 13:33:19,142 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 13:33:19,145 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 13:33:24,123 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 13:34:49,723 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 13:34:49,724 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 13:34:54,644 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 13:36:14,155 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 13:36:14,157 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 13:36:19,080 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 13:57:04,212 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 13:57:04,213 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 13:57:09,139 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 13:58:21,343 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 13:58:21,345 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 13:58:26,282 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 14:01:54,979 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 14:01:54,981 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 14:01:59,894 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 14:08:15,079 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 14:08:15,080 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 14:08:19,995 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 14:21:44,717 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 14:21:44,718 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 14:21:49,634 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 14:34:18,820 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 14:34:18,821 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 14:34:23,776 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 14:36:42,240 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 14:36:42,241 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 14:36:47,164 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 14:47:07,362 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 14:47:07,363 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 14:47:12,306 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 14:58:58,191 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 14:58:58,193 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 14:59:03,159 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 15:12:48,270 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 15:12:48,271 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 15:12:53,195 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 15:32:00,672 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 15:32:00,673 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 15:32:05,614 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 16:50:44,910 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 16:50:44,912 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 16:50:49,874 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 17:16:03,330 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 17:16:03,332 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 17:16:08,245 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 17:32:48,808 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 17:32:48,811 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 17:32:53,845 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 17:52:13,819 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 17:52:13,820 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 17:52:18,741 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 17:54:29,538 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 17:54:29,540 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 17:54:34,489 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 17:56:00,655 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 17:56:00,656 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 17:56:05,607 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 18:00:05,995 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 18:00:05,997 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 18:00:10,914 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 18:22:53,823 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 18:22:53,825 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 18:22:58,757 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 18:26:35,145 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 18:26:35,147 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 18:26:40,093 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-08 18:31:48,546 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 18:31:48,548 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-08 18:31:53,602 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 05:00:51,343 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 05:00:51,345 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 05:00:56,420 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 05:08:11,877 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 05:08:11,879 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 05:08:16,839 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 05:16:55,971 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 05:16:55,973 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 05:17:00,938 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 05:38:01,849 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 05:38:01,854 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 05:38:07,528 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 05:47:41,459 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 05:47:41,461 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 05:47:46,481 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 05:55:19,409 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 05:55:19,410 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 05:55:24,338 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 05:57:00,125 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 05:57:00,127 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 05:57:05,042 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 06:01:11,722 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 06:01:11,724 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 06:01:16,680 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 06:11:06,264 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 06:11:06,266 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 06:11:11,176 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 06:19:15,450 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 06:19:15,451 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 06:19:20,367 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 06:22:36,601 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 06:22:36,602 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 06:22:41,522 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 06:42:22,157 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 06:42:22,159 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 06:42:27,115 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 06:44:40,838 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 06:44:40,840 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 06:44:45,762 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 06:50:20,958 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 06:50:20,960 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 06:50:25,896 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 07:16:53,153 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 07:16:53,155 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 07:16:58,125 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 07:24:22,627 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 07:24:22,629 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 07:24:27,571 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 07:28:27,932 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 07:28:27,934 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 07:28:32,882 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 07:56:58,054 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 07:56:58,055 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 07:57:03,239 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 08:05:39,677 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 08:05:39,679 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 08:05:44,609 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 08:07:07,723 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 08:07:07,725 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 08:07:12,667 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 08:17:54,541 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 08:17:54,542 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 08:17:59,498 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 08:20:20,625 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 08:20:20,626 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 08:20:25,560 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 08:23:09,766 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 08:23:09,768 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 08:23:14,715 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 08:36:31,596 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 08:36:31,599 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 08:36:37,254 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 08:48:28,607 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 08:48:28,610 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 08:51:34,553 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 08:51:34,554 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 08:51:34,555 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 08:51:39,473 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 08:55:30,805 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 08:55:30,806 - variabletrans - INFO - Yeo-Johnson transformation col names: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 08:55:30,812 - variabletrans - INFO - Yeo-Johnson transformation sample values:
+      SeniorCitizen_yeojohnson  tenure_yeojohnson  MonthlyCharges_yeojohnson  TotalCharges_knn_yeojohnson
+2142                 -0.437749          -0.213935                   0.016692                    -0.023126
+1623                 -0.437749           0.901579                   1.067081                     1.171546
+6074                 -0.437749          -1.654653                  -1.385703                    -1.883877
+1362                 -0.437749          -1.276377                   0.192437                    -1.058963
+6754                 -0.437749          -1.853109                  -0.080621                     0.406613
+2025-11-09 08:55:35,712 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 09:11:30,569 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 09:11:30,570 - variabletrans - INFO - Yeo-Johnson transformation col names: ['tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 09:11:30,574 - variabletrans - INFO - Yeo-Johnson transformation sample values:
+      tenure_yeojohnson  MonthlyCharges_yeojohnson  TotalCharges_knn_yeojohnson
+2142          -0.213935                   0.016692                    -0.023126
+1623           0.901579                   1.067081                     1.171546
+6074          -1.654653                  -1.385703                    -1.883877
+1362          -1.276377                   0.192437                    -1.058963
+6754          -1.853109                  -0.080621                     0.406613
+2025-11-09 09:11:34,237 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 09:15:35,465 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 09:15:35,466 - variabletrans - INFO - Yeo-Johnson transformation col names: ['tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 09:15:35,471 - variabletrans - INFO - Yeo-Johnson transformation sample values:
+      tenure_yeojohnson  MonthlyCharges_yeojohnson  TotalCharges_knn_yeojohnson
+2142          -0.213935                   0.016692                    -0.023126
+1623           0.901579                   1.067081                     1.171546
+6074          -1.654653                  -1.385703                    -1.883877
+1362          -1.276377                   0.192437                    -1.058963
+6754          -1.853109                  -0.080621                     0.406613
+2025-11-09 09:15:39,132 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 09:20:16,569 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 09:20:16,570 - variabletrans - INFO - Yeo-Johnson transformation col names: ['tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 09:20:16,575 - variabletrans - INFO - Yeo-Johnson transformation sample values:
+      tenure_yeojohnson  MonthlyCharges_yeojohnson  TotalCharges_knn_yeojohnson
+2142          -0.213935                   0.016692                    -0.023126
+1623           0.901579                   1.067081                     1.171546
+6074          -1.654653                  -1.385703                    -1.883877
+1362          -1.276377                   0.192437                    -1.058963
+6754          -1.853109                  -0.080621                     0.406613
+2025-11-09 09:20:20,261 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 09:25:11,956 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 09:25:11,957 - variabletrans - INFO - Yeo-Johnson transformation col names: ['tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 09:25:11,962 - variabletrans - INFO - Yeo-Johnson transformation sample values:
+      tenure_yeojohnson  MonthlyCharges_yeojohnson  TotalCharges_knn_yeojohnson
+2142          -0.213935                   0.016692                    -0.023126
+1623           0.901579                   1.067081                     1.171546
+6074          -1.654653                  -1.385703                    -1.883877
+1362          -1.276377                   0.192437                    -1.058963
+6754          -1.853109                  -0.080621                     0.406613
+2025-11-09 09:25:15,661 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 09:40:07,305 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 09:40:07,306 - variabletrans - INFO - Yeo-Johnson transformation col names: ['tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 09:40:07,310 - variabletrans - INFO - Yeo-Johnson transformation sample values:
+      tenure_yeojohnson  MonthlyCharges_yeojohnson  TotalCharges_knn_yeojohnson
+2142          -0.213935                   0.016692                    -0.023126
+1623           0.901579                   1.067081                     1.171546
+6074          -1.654653                  -1.385703                    -1.883877
+1362          -1.276377                   0.192437                    -1.058963
+6754          -1.853109                  -0.080621                     0.406613
+2025-11-09 09:40:12,242 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 09:46:12,951 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 09:46:12,952 - variabletrans - INFO - Yeo-Johnson transformation col names: ['tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 09:46:12,957 - variabletrans - INFO - Yeo-Johnson transformation sample values:
+      tenure_yeojohnson  MonthlyCharges_yeojohnson  TotalCharges_knn_yeojohnson
+2142          -0.213935                   0.016692                    -0.023126
+1623           0.901579                   1.067081                     1.171546
+6074          -1.654653                  -1.385703                    -1.883877
+1362          -1.276377                   0.192437                    -1.058963
+6754          -1.853109                  -0.080621                     0.406613
+2025-11-09 09:46:17,904 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 09:58:01,938 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 09:58:01,940 - variabletrans - INFO - Yeo-Johnson transformation col names: ['MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 09:58:01,944 - variabletrans - INFO - Yeo-Johnson transformation sample values:
+      MonthlyCharges_yeojohnson  TotalCharges_knn_yeojohnson
+2142                   0.016692                    -0.023126
+1623                   1.067081                     1.171546
+6074                  -1.385703                    -1.883877
+1362                   0.192437                    -1.058963
+6754                  -0.080621                     0.406613
+2025-11-09 10:03:27,111 - variabletrans - INFO - Yeo-Johnson transformation completed successfully:['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges_knn', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 10:03:27,113 - variabletrans - INFO - Yeo-Johnson transformation col names: ['MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 10:03:27,116 - variabletrans - INFO - Yeo-Johnson transformation sample values:
+      MonthlyCharges_yeojohnson  TotalCharges_knn_yeojohnson
+2142                   0.016692                    -0.023126
+1623                   1.067081                     1.171546
+6074                  -1.385703                    -1.883877
+1362                   0.192437                    -1.058963
+6754                  -0.080621                     0.406613
+2025-11-09 10:22:54,162 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson', 'SeniorCitizen', 'tenure']
+2025-11-09 10:22:59,102 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 10:24:23,129 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson', 'SeniorCitizen', 'tenure']
+2025-11-09 10:24:28,082 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 11:22:59,946 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 11:23:04,911 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 12:01:14,869 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 12:01:20,393 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 13:24:49,580 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 13:24:54,527 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 13:37:57,578 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 13:38:02,509 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 13:44:54,622 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 13:44:59,555 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 13:49:28,738 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 13:49:33,707 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 13:54:58,924 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 13:55:03,863 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 13:57:50,631 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 13:57:55,566 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 14:02:52,908 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 14:02:57,840 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 14:10:00,813 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 14:10:05,749 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 14:15:47,099 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 14:15:52,051 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 14:24:46,339 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 14:24:51,274 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 14:32:52,273 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 14:32:57,223 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 14:48:47,283 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 14:48:52,963 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 15:09:49,577 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 15:09:55,568 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 16:04:14,830 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 16:04:19,801 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 16:39:16,291 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 16:39:21,269 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 16:44:14,614 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 16:44:19,577 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 16:46:54,688 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 16:46:59,641 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 16:52:26,920 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 16:52:31,877 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 16:54:21,721 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 16:54:26,671 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 17:00:01,116 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 17:00:06,075 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 17:20:10,785 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 17:20:16,403 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 17:21:55,094 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 17:22:00,010 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 17:27:32,799 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 17:27:37,711 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 17:38:23,725 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 17:38:29,391 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 17:50:37,867 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 17:50:42,817 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 17:57:44,358 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 17:57:49,267 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 18:05:50,195 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 18:05:55,123 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 18:07:21,722 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 18:07:26,648 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 18:16:55,769 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 18:17:00,805 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 19:38:00,502 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 19:38:05,455 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 19:41:38,462 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 19:41:43,377 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 19:51:06,244 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 19:51:11,167 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-09 20:06:18,620 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-09 20:06:23,536 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-10 00:46:06,061 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-10 00:46:11,016 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-10 00:48:37,611 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-10 00:48:42,530 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-10 01:13:04,573 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-10 01:13:09,624 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-10 01:14:13,315 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-10 01:14:18,213 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-10 02:54:57,869 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-10 02:55:02,795 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-10 08:04:01,378 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-10 08:04:06,343 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-10 08:05:30,068 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-10 08:05:34,968 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-15 11:08:19,429 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-15 11:08:25,110 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-15 13:18:17,447 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-15 13:18:22,402 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-15 13:24:55,476 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-15 13:25:00,406 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-15 13:29:49,404 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-15 13:29:54,315 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-15 16:04:26,668 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-15 16:04:31,749 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-15 16:26:17,249 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-15 16:26:22,640 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-15 18:52:31,972 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-15 18:52:36,965 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-15 22:56:29,437 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-15 22:56:35,037 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-15 23:00:34,324 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-15 23:00:39,279 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-15 23:14:39,238 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-15 23:14:44,827 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-15 23:20:21,760 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-15 23:20:26,826 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-15 23:40:40,138 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-15 23:40:45,689 - variabletrans - INFO - All transformation visualizations completed successfully.
+2025-11-16 00:07:07,231 - variabletrans - INFO - Final columns after Yeo-Johnson transformation: ['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-16 00:07:12,148 - variabletrans - INFO - All transformation visualizations completed successfully.

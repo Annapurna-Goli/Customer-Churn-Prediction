@@ -1,0 +1,613 @@
+2025-11-06 11:20:06,235 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 11:20:06,242 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-06 11:20:11,947 - dupmissing - INFO - STD deviation for TotalCharges:
+TotalCharges_original: 2263.15
+TotalCharges_knn: 2261.14
+2025-11-06 11:42:08,996 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 11:42:09,003 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-06 11:42:24,579 - dupmissing - INFO - STD deviation for TotalCharges:
+TotalCharges_original: 2263.15
+TotalCharges_knn: 2261.14
+2025-11-06 12:02:26,917 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 12:02:42,589 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-06 12:02:42,589 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-06 12:13:24,070 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 12:13:27,697 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-06 12:13:27,697 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-06 12:56:56,162 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 12:56:59,264 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-06 12:56:59,264 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-06 12:57:20,158 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 12:57:23,432 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-06 12:57:23,432 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-06 12:59:27,284 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 12:59:30,821 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-06 12:59:30,821 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-06 13:09:05,970 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 13:09:10,054 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-06 13:09:10,054 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-06 13:09:44,977 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 13:09:47,797 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-06 13:09:47,797 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-06 13:14:21,233 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 13:14:24,450 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-06 13:14:24,450 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-06 13:17:38,477 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 13:17:41,115 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-06 13:17:41,115 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-06 13:22:06,010 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 13:22:08,336 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-06 13:22:08,336 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-06 13:27:03,000 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 13:27:06,447 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-06 13:27:06,448 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-06 13:28:52,671 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 13:28:54,904 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-06 13:28:54,904 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-06 13:43:02,927 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 13:47:50,993 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-06 13:47:50,994 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-06 13:50:47,537 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 13:50:50,116 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-06 13:50:50,117 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-06 13:54:46,741 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 13:54:48,713 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-06 13:54:48,714 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-06 13:57:58,277 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 13:58:01,958 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-06 13:58:01,959 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-06 13:58:50,497 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 13:58:52,650 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-06 13:58:52,651 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-06 15:45:50,456 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 15:45:54,093 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-06 15:45:54,094 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-06 16:24:52,087 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 16:24:55,399 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-06 16:24:55,400 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-06 16:34:11,470 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 16:34:15,259 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-06 16:34:15,259 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-06 18:31:07,197 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-06 18:31:09,552 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-06 18:31:09,553 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 01:17:29,013 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 01:17:38,610 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 01:17:38,610 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 01:26:45,554 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 01:26:49,401 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 01:26:49,402 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 01:44:30,459 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 01:44:31,675 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 01:44:31,675 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 01:54:20,062 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 01:54:21,279 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 01:54:21,279 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 02:02:25,495 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 02:02:26,703 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 02:02:26,704 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 02:09:14,469 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 02:09:15,674 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 02:09:15,675 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 02:10:27,473 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 02:10:28,688 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 02:10:28,688 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 02:18:09,233 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 02:18:10,442 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 02:18:10,442 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 10:21:53,519 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 10:21:55,125 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 10:21:55,125 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 11:08:28,010 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 11:08:29,214 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 11:08:29,214 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 11:16:14,806 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 11:16:16,020 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 11:16:16,021 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 11:20:22,804 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 11:20:24,029 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 11:20:24,030 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 11:22:42,526 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 11:22:43,870 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 11:22:43,871 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 11:28:32,277 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 11:28:33,620 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 11:28:33,621 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 11:50:25,145 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 11:50:26,355 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 11:50:26,355 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 12:07:40,534 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 12:07:41,724 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 12:07:41,725 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 12:09:14,025 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 12:09:15,225 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 12:09:15,226 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 12:34:51,586 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 12:34:52,798 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 12:34:52,798 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 12:36:36,093 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 12:36:37,291 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 12:36:37,292 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 12:49:44,957 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 12:49:46,174 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 12:49:46,175 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 13:10:06,735 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 13:10:07,936 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 13:10:07,937 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 13:16:37,745 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 13:16:38,944 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 13:16:38,944 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 13:23:48,743 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 13:23:49,941 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 13:23:49,942 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 13:42:43,918 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 13:42:45,125 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 13:42:45,126 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 13:49:08,636 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 13:49:09,846 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 13:49:09,847 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 14:02:43,026 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 14:02:44,240 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 14:02:44,241 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 14:05:05,621 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 14:05:06,831 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 14:05:06,832 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 14:13:46,353 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 14:13:47,567 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 14:13:47,567 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 14:16:02,095 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 14:16:03,341 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 14:16:03,341 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 14:43:25,340 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 14:43:26,707 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 14:43:26,707 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 15:18:44,199 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 15:18:45,571 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 15:18:45,572 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 15:25:55,796 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 15:25:57,138 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 15:25:57,138 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 18:00:29,691 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 18:00:31,381 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 18:00:31,382 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 18:12:06,237 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 18:12:07,633 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 18:12:07,634 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 18:15:00,407 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 18:15:01,617 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 18:15:01,618 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 18:21:30,918 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 18:21:32,118 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 18:21:32,118 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 18:23:06,538 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 18:23:07,751 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 18:23:07,751 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 18:28:21,435 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 18:28:22,655 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 18:28:22,655 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 20:51:52,673 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 20:51:54,002 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 20:51:54,002 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 20:54:30,965 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 20:54:32,167 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 20:54:32,168 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 21:01:24,129 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 21:01:25,324 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 21:01:25,324 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 21:07:39,279 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 21:07:40,499 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 21:07:40,500 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 21:09:58,283 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 21:09:59,498 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 21:09:59,499 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 21:19:54,008 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 21:19:55,230 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 21:19:55,231 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 21:45:52,208 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 21:45:53,425 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 21:45:53,425 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 22:09:38,145 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 22:09:39,363 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 22:09:39,363 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 22:16:14,984 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 22:16:16,201 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 22:16:16,202 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 23:09:36,235 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 23:09:37,602 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 23:09:37,603 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 23:20:41,546 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 23:20:42,772 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 23:20:42,773 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-07 23:59:17,137 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-07 23:59:18,342 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-07 23:59:18,343 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 00:22:26,781 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 00:22:28,014 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 00:22:28,015 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 00:33:25,750 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 00:33:26,964 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 00:33:26,965 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 00:37:00,186 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 00:37:01,400 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 00:37:01,401 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 00:41:32,222 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 00:41:33,428 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 00:41:33,429 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 01:00:37,806 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 01:00:39,019 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 01:00:39,019 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 01:04:00,148 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 01:04:01,360 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 01:04:01,361 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 01:06:42,672 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 01:06:43,879 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 01:06:43,879 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 01:10:56,728 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 01:10:57,940 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 01:10:57,941 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 01:12:06,195 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 01:12:07,405 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 01:12:07,405 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 01:27:10,866 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 01:27:12,082 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 01:27:12,083 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 01:54:54,528 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 01:54:55,752 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 01:54:55,753 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 13:33:11,745 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 13:33:13,245 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 13:33:13,245 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 13:34:42,703 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 13:34:43,894 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 13:34:43,895 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 13:36:07,056 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 13:36:08,265 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 13:36:08,266 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 13:56:57,154 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 13:56:58,352 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 13:56:58,352 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 13:58:14,281 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 13:58:15,495 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 13:58:15,496 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 14:01:47,963 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 14:01:49,171 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 14:01:49,172 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 14:08:08,012 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 14:08:09,217 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 14:08:09,218 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 14:21:37,629 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 14:21:38,838 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 14:21:38,839 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 14:34:11,717 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 14:34:12,941 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 14:34:12,942 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 14:36:35,179 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 14:36:36,379 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 14:36:36,379 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 14:47:00,273 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 14:47:01,513 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 14:47:01,514 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 14:58:50,983 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 14:58:52,215 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 14:58:52,215 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 15:12:41,207 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 15:12:42,412 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 15:12:42,412 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 15:31:53,559 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 15:31:54,780 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 15:31:54,781 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 16:50:37,556 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 16:50:38,850 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 16:50:38,850 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 17:15:56,214 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 17:15:57,425 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 17:15:57,425 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 17:32:41,451 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 17:32:42,856 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 17:32:42,857 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 17:52:06,705 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 17:52:07,932 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 17:52:07,932 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 17:54:22,476 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 17:54:23,691 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 17:54:23,692 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 17:55:53,565 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 17:55:54,769 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 17:55:54,770 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 17:59:58,924 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 18:00:00,151 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 18:00:00,152 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 18:22:46,734 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 18:22:47,953 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 18:22:47,954 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 18:26:28,034 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 18:26:29,263 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 18:26:29,263 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-08 18:31:41,353 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-08 18:31:42,569 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-08 18:31:42,570 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 05:00:43,354 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 05:00:45,411 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 05:00:45,411 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 05:08:04,731 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 05:08:05,964 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 05:08:05,965 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 05:16:48,820 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 05:16:50,047 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 05:16:50,048 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 05:37:53,235 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 05:37:54,586 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 05:37:54,588 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 05:47:34,405 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 05:47:35,612 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 05:47:35,613 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 05:55:12,324 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 05:55:13,538 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 05:55:13,539 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 05:56:53,067 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 05:56:54,280 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 05:56:54,280 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 06:01:04,626 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 06:01:05,840 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 06:01:05,840 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 06:10:59,209 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 06:11:00,415 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 06:11:00,415 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 06:19:08,365 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 06:19:09,574 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 06:19:09,574 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 06:22:29,541 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 06:22:30,749 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 06:22:30,749 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 06:42:15,103 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 06:42:16,305 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 06:42:16,306 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 06:44:33,784 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 06:44:34,991 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 06:44:34,992 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 06:50:13,931 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 06:50:15,135 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 06:50:15,135 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 06:59:00,221 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 06:59:01,417 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 06:59:01,417 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 07:16:45,988 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 07:16:47,215 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 07:16:47,216 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 07:20:00,921 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 07:20:02,154 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 07:20:02,154 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 07:24:15,499 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 07:24:16,729 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 07:24:16,730 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 07:26:36,096 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 07:26:37,314 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 07:26:37,315 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 07:28:20,814 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 07:28:22,034 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 07:28:22,034 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 07:56:50,961 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 07:56:52,181 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 07:56:52,181 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 08:05:32,588 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 08:05:33,810 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 08:05:33,810 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 08:07:00,665 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 08:07:01,875 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 08:07:01,876 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 08:17:47,381 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 08:17:48,616 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 08:17:48,617 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 08:20:13,521 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 08:20:14,737 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 08:20:14,738 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 08:23:02,612 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 08:23:03,838 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 08:23:03,839 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 08:36:22,908 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 08:36:24,278 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 08:36:24,280 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 08:48:19,979 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 08:48:21,352 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 08:48:21,352 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 08:51:27,486 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 08:51:28,696 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 08:51:28,697 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 08:55:23,743 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 08:55:24,958 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 08:55:24,959 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 09:11:24,954 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 09:11:26,153 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 09:11:26,154 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 09:15:29,850 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 09:15:31,057 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 09:15:31,058 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 09:20:10,937 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 09:20:12,151 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 09:20:12,152 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 09:25:06,353 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 09:25:07,561 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 09:25:07,561 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 09:40:01,675 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 09:40:02,887 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 09:40:02,887 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 09:46:07,333 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 09:46:08,547 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 09:46:08,547 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 09:57:57,741 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 09:57:58,953 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 09:57:58,953 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 10:03:22,917 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 10:03:24,134 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 10:03:24,135 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 10:22:49,993 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 10:22:51,217 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 10:22:51,217 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 10:24:18,953 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 10:24:20,169 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 10:24:20,169 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 11:22:52,691 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 11:22:53,918 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 11:22:53,919 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 12:01:07,731 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 12:01:08,948 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 12:01:08,949 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 13:24:42,284 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 13:24:43,646 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 13:24:43,646 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 13:37:50,469 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 13:37:51,696 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 13:37:51,697 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 13:44:47,528 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 13:44:48,745 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 13:44:48,745 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 13:49:21,622 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 13:49:22,847 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 13:49:22,848 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 13:54:51,784 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 13:54:53,002 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 13:54:53,003 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 13:57:43,559 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 13:57:44,767 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 13:57:44,768 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 14:02:45,755 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 14:02:46,987 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 14:02:46,988 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 14:09:53,730 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 14:09:54,951 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 14:09:54,952 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 14:15:40,018 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 14:15:41,228 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 14:15:41,228 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 14:24:39,209 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 14:24:40,430 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 14:24:40,431 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 14:32:45,139 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 14:32:46,359 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 14:32:46,360 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 14:48:38,568 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 14:48:39,964 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 14:48:39,965 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 15:09:42,453 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 15:09:43,660 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 15:09:43,660 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 16:04:07,679 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 16:04:08,913 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 16:04:08,913 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 16:39:09,169 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 16:39:10,388 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 16:39:10,388 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 16:44:07,433 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 16:44:08,669 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 16:44:08,669 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 16:46:47,512 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 16:46:48,769 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 16:46:48,769 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 16:52:19,840 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 16:52:21,067 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 16:52:21,068 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 16:54:14,618 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 16:54:15,839 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 16:54:15,840 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 16:59:53,705 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 16:59:54,921 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 16:59:54,922 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 17:20:02,140 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 17:20:03,507 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 17:20:03,508 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 17:21:48,048 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 17:21:49,248 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 17:21:49,249 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 17:27:25,733 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 17:27:26,948 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 17:27:26,949 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 17:38:16,252 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 17:38:17,480 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 17:38:17,481 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 17:50:30,777 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 17:50:32,006 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 17:50:32,007 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 17:57:37,295 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 17:57:38,505 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 17:57:38,505 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 18:05:43,137 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 18:05:44,352 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 18:05:44,352 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 18:07:14,638 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 18:07:15,850 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 18:07:15,850 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 18:16:48,662 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 18:16:49,863 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 18:16:49,864 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 19:37:53,392 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 19:37:54,614 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 19:37:54,615 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 19:41:31,403 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 19:41:32,620 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 19:41:32,620 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 19:50:59,155 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 19:51:00,362 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 19:51:00,362 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-09 20:06:11,571 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-09 20:06:12,782 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-09 20:06:12,783 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-10 00:45:58,642 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-10 00:46:00,124 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-10 00:46:00,124 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-10 00:48:30,572 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-10 00:48:31,782 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-10 00:48:31,783 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-10 01:12:57,454 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-10 01:12:58,659 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-10 01:12:58,659 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-10 01:14:06,200 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-10 01:14:07,413 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-10 01:14:07,413 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-10 02:54:50,669 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-10 02:54:51,900 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-10 02:54:51,900 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-10 08:03:54,093 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-10 08:03:55,453 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-10 08:03:55,453 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-10 08:05:23,012 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-10 08:05:24,232 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-10 08:05:24,233 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-15 11:08:09,714 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-15 11:08:12,026 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-15 11:08:12,028 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-15 13:18:10,177 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-15 13:18:11,553 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-15 13:18:11,553 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-15 13:24:48,416 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-15 13:24:49,628 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-15 13:24:49,628 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-15 13:29:42,395 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-15 13:29:43,611 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-15 13:29:43,612 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-15 16:04:19,231 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-15 16:04:20,511 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-15 16:04:20,512 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-15 16:26:09,549 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-15 16:26:10,805 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-15 16:26:10,814 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-15 18:52:24,910 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-15 18:52:26,136 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-15 18:52:26,137 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-15 22:56:21,041 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-15 22:56:22,611 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-15 22:56:22,612 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-15 23:00:26,957 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-15 23:00:28,203 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-15 23:00:28,203 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-15 23:14:30,788 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-15 23:14:32,030 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-15 23:14:32,031 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-15 23:20:14,369 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-15 23:20:15,645 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-15 23:20:15,646 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-15 23:40:31,353 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-15 23:40:32,726 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-15 23:40:32,726 - dupmissing - INFO - KNN imputation completed successfully.
+2025-11-16 00:07:00,145 - dupmissing - INFO - Columns with missing values: ['TotalCharges']
+2025-11-16 00:07:01,371 - dupmissing - INFO - STD for TotalCharges: Original=2263.152, TotalCharges_knn=2261.142
+2025-11-16 00:07:01,372 - dupmissing - INFO - KNN imputation completed successfully.

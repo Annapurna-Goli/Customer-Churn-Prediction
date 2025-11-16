@@ -1,0 +1,126 @@
+2025-11-08 14:47:27,827 - filter - INFO - Initial numeric columns: 31, categorical columns: 0
+2025-11-08 14:47:27,828 - filter - INFO - 🔹 Starting filter methods...
+2025-11-08 14:47:27,831 - filter - INFO - Variance Threshold applied: 31 numeric features retained.
+2025-11-08 14:47:27,836 - filter - INFO - ANOVA filter applied: 14 numeric features retained.
+2025-11-08 14:59:18,736 - filter - INFO - Initial numeric columns: 31, categorical columns: 0
+2025-11-08 14:59:18,737 - filter - INFO - 🔹 Starting filter methods...
+2025-11-08 14:59:18,741 - filter - INFO - Variance Threshold applied: 31 numeric features retained.
+2025-11-08 14:59:18,745 - filter - INFO - ANOVA filter applied: 14 numeric features retained.
+2025-11-08 15:13:08,695 - filter - INFO - Initial numeric columns: 31, categorical columns: 0
+2025-11-08 15:13:08,696 - filter - INFO - 🔹 Starting filter methods...
+2025-11-08 15:13:08,700 - filter - INFO - Variance Threshold applied: 31 numeric features retained.
+2025-11-08 15:13:08,704 - filter - INFO - ANOVA filter applied: 14 numeric features retained.
+2025-11-08 15:32:21,191 - filter - INFO - Initial numeric columns: 31, categorical columns: 0
+2025-11-08 15:32:21,192 - filter - INFO - 🔹 Starting filter methods...
+2025-11-08 15:32:21,197 - filter - INFO - Variance Threshold applied: 31 numeric features retained.
+2025-11-08 15:32:21,201 - filter - INFO - ANOVA filter applied: 14 numeric features retained.
+2025-11-08 15:32:21,202 - filter - ERROR - Error in filter_features: No objects to concatenate at 70
+2025-11-08 15:32:21,202 - filter - ERROR - Error in filter_features: No objects to concatenate at 109
+2025-11-08 16:51:05,461 - filter - INFO - Initial numeric columns: 31, categorical columns: 0
+2025-11-08 16:51:05,462 - filter - INFO - 🔹 Starting filter methods...
+2025-11-08 16:51:05,465 - filter - INFO - Variance Threshold applied: 31 numeric features retained.
+2025-11-08 16:51:05,471 - filter - INFO - ANOVA filter applied: 14 numeric features retained.
+2025-11-08 16:51:05,472 - filter - INFO - ⚠️ Skipping Chi2 — no categorical columns found.
+2025-11-08 16:51:05,472 - filter - INFO - Shapes before concat -> Train num: (5634, 14), Cat: (0, 0)
+2025-11-08 16:51:05,472 - filter - INFO - Shapes before concat -> Test num: (1409, 14), Cat: (0, 0)
+2025-11-08 16:51:05,472 - filter - INFO - ⚠️ No categorical columns found — using only numeric features for filtered dataset.
+2025-11-08 16:51:05,472 - filter - INFO - ✅ Final filtered dataset shapes — Train: (5634, 14), Test: (1409, 14)
+2025-11-08 17:16:23,698 - filter - INFO - Initial numeric columns: 31, categorical columns: 0
+2025-11-08 17:16:23,699 - filter - INFO - 🔹 Starting filter methods...
+2025-11-08 17:16:23,703 - filter - INFO - Variance Threshold (0.01) applied: 31 numeric features retained.
+2025-11-08 17:16:23,707 - filter - INFO - ANOVA filter applied: 14 numeric features retained.
+2025-11-08 17:16:23,710 - filter - INFO - Variance Threshold applied: 14 numeric features retained.
+2025-11-08 17:16:23,713 - filter - INFO - ANOVA filter applied: 4 numeric features retained.
+2025-11-08 17:16:23,714 - filter - INFO - ⚠️ Skipping Chi2 — no categorical columns found.
+2025-11-08 17:16:23,714 - filter - INFO - Shapes before concat -> Train num: (5634, 4), Cat: (0, 0)
+2025-11-08 17:16:23,714 - filter - INFO - Shapes before concat -> Test num: (1409, 4), Cat: (0, 0)
+2025-11-08 17:16:23,714 - filter - INFO - ⚠️ No categorical columns found — using only numeric features for filtered dataset.
+2025-11-08 17:16:23,714 - filter - INFO - ✅ Final filtered dataset shapes — Train: (5634, 4), Test: (1409, 4)
+2025-11-08 17:33:09,607 - filter - INFO - Initial numeric columns: 31, categorical columns: 0
+2025-11-08 17:33:09,608 - filter - INFO - 🔹 Starting filter methods...
+2025-11-08 17:33:09,614 - filter - INFO - Variance Threshold (0.01) applied: 31 numeric features retained.
+2025-11-08 17:33:09,618 - filter - INFO - ANOVA filter applied: 14 numeric features retained.
+2025-11-08 17:33:09,622 - filter - INFO - Variance Threshold applied: 14 numeric features retained.
+2025-11-08 17:33:09,625 - filter - INFO - ANOVA filter applied: 4 numeric features retained.
+2025-11-08 17:33:09,626 - filter - INFO - ⚠️ Skipping Chi2 — no categorical columns found.
+2025-11-08 17:33:09,626 - filter - INFO - Shapes before concat -> Train num: (5634, 4), Cat: (0, 0)
+2025-11-08 17:33:09,626 - filter - INFO - Shapes before concat -> Test num: (1409, 4), Cat: (0, 0)
+2025-11-08 17:33:09,627 - filter - INFO - ⚠️ No categorical columns found — using only numeric features for filtered dataset.
+2025-11-08 17:33:09,627 - filter - INFO - ✅ Final filtered dataset shapes — Train: (5634, 4), Test: (1409, 4)
+2025-11-08 17:52:34,490 - filter - INFO - Initial numeric columns: 31, categorical columns: 0
+2025-11-08 17:52:34,491 - filter - INFO - 🔹 Starting filter methods...
+2025-11-08 17:52:34,497 - filter - INFO - Variance Threshold (0.01) applied: 31 numeric features retained.
+2025-11-08 17:52:34,503 - filter - INFO - ANOVA filter applied: 14 numeric features retained.
+2025-11-08 17:52:34,507 - filter - INFO - Variance Threshold applied: 14 numeric features retained.
+2025-11-08 17:52:34,511 - filter - INFO - ANOVA filter applied: 4 numeric features retained.
+2025-11-08 17:52:34,513 - filter - INFO - ⚠️ Skipping Chi2 — no categorical columns found.
+2025-11-08 17:52:34,514 - filter - INFO - Shapes before concat -> Train num: (5634, 4), Cat: (0, 0)
+2025-11-08 17:52:34,514 - filter - INFO - Shapes before concat -> Test num: (1409, 4), Cat: (0, 0)
+2025-11-08 17:52:34,514 - filter - INFO - ⚠️ No categorical columns found — using only numeric features for filtered dataset.
+2025-11-08 17:52:34,515 - filter - INFO - ✅ Final filtered dataset shapes — Train: (5634, 4), Test: (1409, 4)
+2025-11-08 17:54:50,165 - filter - INFO - Initial numeric columns: 31, categorical columns: 0
+2025-11-08 17:54:50,166 - filter - INFO - 🔹 Starting filter methods...
+2025-11-08 17:54:50,171 - filter - INFO - Variance Threshold (0.01) applied: 31 numeric features retained.
+2025-11-08 17:54:50,176 - filter - INFO - ANOVA filter applied: 14 numeric features retained.
+2025-11-08 17:54:50,179 - filter - INFO - Variance Threshold applied: 14 numeric features retained.
+2025-11-08 17:54:50,182 - filter - INFO - ANOVA filter applied: 4 numeric features retained.
+2025-11-08 17:54:50,183 - filter - INFO - ⚠️ Skipping Chi2 — no categorical columns found.
+2025-11-08 17:54:50,184 - filter - INFO - Shapes before concat -> Train num: (5634, 4), Cat: (0, 0)
+2025-11-08 17:54:50,185 - filter - INFO - Shapes before concat -> Test num: (1409, 4), Cat: (0, 0)
+2025-11-08 17:54:50,185 - filter - INFO - ⚠️ No categorical columns found — using only numeric features for filtered dataset.
+2025-11-08 17:54:50,186 - filter - INFO - ✅ Final filtered dataset shapes — Train: (5634, 4), Test: (1409, 4)
+2025-11-08 17:56:21,087 - filter - INFO - Initial numeric columns: 31, categorical columns: 0
+2025-11-08 17:56:21,088 - filter - INFO - 🔹 Starting filter methods...
+2025-11-08 17:56:21,093 - filter - INFO - Variance Threshold (0.01) applied: 31 numeric features retained.
+2025-11-08 17:56:21,098 - filter - INFO - ANOVA filter applied: 14 numeric features retained.
+2025-11-08 17:56:21,100 - filter - INFO - Variance Threshold applied: 14 numeric features retained.
+2025-11-08 17:56:21,104 - filter - INFO - ANOVA filter applied: 4 numeric features retained.
+2025-11-08 17:56:21,105 - filter - INFO - ⚠️ Skipping Chi2 — no categorical columns found.
+2025-11-08 17:56:21,106 - filter - INFO - Shapes before concat -> Train num: (5634, 4), Cat: (0, 0)
+2025-11-08 17:56:21,106 - filter - INFO - Shapes before concat -> Test num: (1409, 4), Cat: (0, 0)
+2025-11-08 17:56:21,107 - filter - INFO - ⚠️ No categorical columns found — using only numeric features for filtered dataset.
+2025-11-08 17:56:21,107 - filter - INFO - ✅ Final filtered dataset shapes — Train: (5634, 4), Test: (1409, 4)
+2025-11-08 18:00:26,538 - filter - INFO - Initial numeric columns: 31, categorical columns: 0
+2025-11-08 18:00:26,539 - filter - INFO - 🔹 Starting filter methods...
+2025-11-08 18:00:26,542 - filter - INFO - Variance Threshold (0.01) applied: 31 numeric features retained.
+2025-11-08 18:00:26,547 - filter - INFO - ANOVA filter applied: 14 numeric features retained.
+2025-11-08 18:00:26,550 - filter - INFO - Variance Threshold applied: 14 numeric features retained.
+2025-11-08 18:00:26,553 - filter - INFO - ANOVA filter applied: 4 numeric features retained.
+2025-11-08 18:00:26,553 - filter - INFO - ⚠️ Skipping Chi2 — no categorical columns found.
+2025-11-08 18:00:26,553 - filter - INFO - Shapes before concat -> Train num: (5634, 4), Cat: (0, 0)
+2025-11-08 18:00:26,553 - filter - INFO - Shapes before concat -> Test num: (1409, 4), Cat: (0, 0)
+2025-11-08 18:00:26,553 - filter - INFO - ⚠️ No categorical columns found — using only numeric features for filtered dataset.
+2025-11-08 18:00:26,554 - filter - INFO - ✅ Final filtered dataset shapes — Train: (5634, 4), Test: (1409, 4)
+2025-11-08 18:23:14,513 - filter - INFO - Initial numeric columns: 31, categorical columns: 0
+2025-11-08 18:23:14,514 - filter - INFO - 🔹 Starting filter methods...
+2025-11-08 18:23:14,520 - filter - INFO - Variance Threshold (0.01) applied: 31 numeric features retained.
+2025-11-08 18:23:14,527 - filter - INFO - ANOVA filter applied: 14 numeric features retained.
+2025-11-08 18:23:14,531 - filter - INFO - Variance Threshold applied: 14 numeric features retained.
+2025-11-08 18:23:14,535 - filter - INFO - ANOVA filter applied: 4 numeric features retained.
+2025-11-08 18:23:14,536 - filter - INFO - ⚠️ Skipping Chi2 — no categorical columns found.
+2025-11-08 18:23:14,537 - filter - INFO - Shapes before concat -> Train num: (5634, 4), Cat: (0, 0)
+2025-11-08 18:23:14,537 - filter - INFO - Shapes before concat -> Test num: (1409, 4), Cat: (0, 0)
+2025-11-08 18:23:14,538 - filter - INFO - ⚠️ No categorical columns found — using only numeric features for filtered dataset.
+2025-11-08 18:23:14,538 - filter - INFO - ✅ Final filtered dataset shapes — Train: (5634, 4), Test: (1409, 4)
+2025-11-08 18:26:55,864 - filter - INFO - Initial numeric columns: 31, categorical columns: 0
+2025-11-08 18:26:55,865 - filter - INFO - 🔹 Starting filter methods...
+2025-11-08 18:26:55,871 - filter - INFO - Variance Threshold (0.01) applied: 31 numeric features retained.
+2025-11-08 18:26:55,876 - filter - INFO - ANOVA filter applied: 14 numeric features retained.
+2025-11-08 18:26:55,879 - filter - INFO - Variance Threshold applied: 14 numeric features retained.
+2025-11-08 18:26:55,883 - filter - INFO - ANOVA filter applied: 4 numeric features retained.
+2025-11-08 18:26:55,884 - filter - INFO - ⚠️ Skipping Chi2 — no categorical columns found.
+2025-11-08 18:26:55,885 - filter - INFO - Shapes before concat -> Train num: (5634, 4), Cat: (0, 0)
+2025-11-08 18:26:55,885 - filter - INFO - Shapes before concat -> Test num: (1409, 4), Cat: (0, 0)
+2025-11-08 18:26:55,886 - filter - INFO - ⚠️ No categorical columns found — using only numeric features for filtered dataset.
+2025-11-08 18:26:55,886 - filter - INFO - ✅ Final filtered dataset shapes — Train: (5634, 4), Test: (1409, 4)
+2025-11-08 18:32:09,414 - filter - INFO - Initial numeric columns: 31, categorical columns: 0
+2025-11-08 18:32:09,415 - filter - INFO - 🔹 Starting filter methods...
+2025-11-08 18:32:09,420 - filter - INFO - Variance Threshold (0.01) applied: 31 numeric features retained.
+2025-11-08 18:32:09,425 - filter - INFO - ANOVA filter applied: 14 numeric features retained.
+2025-11-08 18:32:09,429 - filter - INFO - Variance Threshold applied: 14 numeric features retained.
+2025-11-08 18:32:09,432 - filter - INFO - ANOVA filter applied: 4 numeric features retained.
+2025-11-08 18:32:09,433 - filter - INFO - ⚠️ Skipping Chi2 — no categorical columns found.
+2025-11-08 18:32:09,434 - filter - INFO - Shapes before concat -> Train num: (5634, 4), Cat: (0, 0)
+2025-11-08 18:32:09,434 - filter - INFO - Shapes before concat -> Test num: (1409, 4), Cat: (0, 0)
+2025-11-08 18:32:09,435 - filter - INFO - ⚠️ No categorical columns found — using only numeric features for filtered dataset.
+2025-11-08 18:32:09,435 - filter - INFO - ✅ Final filtered dataset shapes — Train: (5634, 4), Test: (1409, 4)

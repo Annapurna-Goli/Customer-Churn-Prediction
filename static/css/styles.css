@@ -1,0 +1,22 @@
+.form-card {
+    background: #1f1f2e;
+    border-radius: 12px;
+    padding: 25px;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.4);
+}
+
+label {
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+select, input {
+    background: #2a2a3b;
+    color: #ddd;
+    border: 1px solid #444;
+}
+
+select:focus, input:focus {
+    border-color: #6b8cff;
+    box-shadow: 0 0 5px rgba(107, 140, 255, 0.7);
+}

@@ -1,0 +1,219 @@
+2025-11-07 11:16:52,294 - outliers - INFO - ============================================================
+2025-11-07 11:16:52,294 - outliers - INFO - 📊 TRAIN OUTLIERS COUNT PER COLUMN (IQR METHOD)
+2025-11-07 11:16:52,294 - outliers - INFO - ============================================================
+2025-11-07 11:16:52,295 - outliers - INFO - SeniorCitizen_yeojohnson: 906
+2025-11-07 11:16:52,295 - outliers - INFO - tenure_yeojohnson: 0
+2025-11-07 11:16:52,295 - outliers - INFO - MonthlyCharges_yeojohnson: 0
+2025-11-07 11:16:52,295 - outliers - INFO - TotalCharges_knn_yeojohnson: 0
+2025-11-07 11:16:52,295 - outliers - INFO - 
+============================================================
+2025-11-07 11:16:52,295 - outliers - INFO - 📊 TEST OUTLIERS COUNT PER COLUMN (IQR METHOD)
+2025-11-07 11:16:52,295 - outliers - INFO - ============================================================
+2025-11-07 11:16:52,296 - outliers - INFO - SeniorCitizen_yeojohnson: 906
+2025-11-07 11:16:52,296 - outliers - INFO - tenure_yeojohnson: 0
+2025-11-07 11:16:52,296 - outliers - INFO - MonthlyCharges_yeojohnson: 0
+2025-11-07 11:16:52,296 - outliers - INFO - TotalCharges_knn_yeojohnson: 0
+2025-11-07 11:21:18,475 - outliers - INFO - ============================================================
+2025-11-07 11:21:18,475 - outliers - INFO - 📊 TRAIN OUTLIERS COUNT PER COLUMN (IQR METHOD)
+2025-11-07 11:21:18,476 - outliers - INFO - ============================================================
+2025-11-07 11:21:18,476 - outliers - INFO - SeniorCitizen_yeojohnson: 906
+2025-11-07 11:21:18,476 - outliers - INFO - tenure_yeojohnson: 0
+2025-11-07 11:21:18,477 - outliers - INFO - MonthlyCharges_yeojohnson: 0
+2025-11-07 11:21:18,477 - outliers - INFO - TotalCharges_knn_yeojohnson: 0
+2025-11-07 11:21:18,477 - outliers - INFO - 
+============================================================
+2025-11-07 11:21:18,478 - outliers - INFO - 📊 TEST OUTLIERS COUNT PER COLUMN (IQR METHOD)
+2025-11-07 11:21:18,478 - outliers - INFO - ============================================================
+2025-11-07 11:21:18,478 - outliers - INFO - SeniorCitizen_yeojohnson: 906
+2025-11-07 11:21:18,479 - outliers - INFO - tenure_yeojohnson: 0
+2025-11-07 11:21:18,485 - outliers - INFO - MonthlyCharges_yeojohnson: 0
+2025-11-07 11:21:18,488 - outliers - INFO - TotalCharges_knn_yeojohnson: 0
+2025-11-07 11:23:17,111 - outliers - INFO - ============================================================
+2025-11-07 11:23:17,113 - outliers - INFO - 📊 TRAIN OUTLIERS COUNT PER COLUMN (IQR METHOD)
+2025-11-07 11:23:17,114 - outliers - INFO - ============================================================
+2025-11-07 11:23:17,115 - outliers - INFO - SeniorCitizen_yeojohnson: 906
+2025-11-07 11:23:17,116 - outliers - INFO - tenure_yeojohnson: 0
+2025-11-07 11:23:17,117 - outliers - INFO - MonthlyCharges_yeojohnson: 0
+2025-11-07 11:23:17,117 - outliers - INFO - TotalCharges_knn_yeojohnson: 0
+2025-11-07 11:23:17,118 - outliers - INFO - 
+============================================================
+2025-11-07 11:23:17,118 - outliers - INFO - 📊 TEST OUTLIERS COUNT PER COLUMN (IQR METHOD)
+2025-11-07 11:23:17,118 - outliers - INFO - ============================================================
+2025-11-07 11:23:17,119 - outliers - INFO - SeniorCitizen_yeojohnson: 906
+2025-11-07 11:23:17,119 - outliers - INFO - tenure_yeojohnson: 0
+2025-11-07 11:23:17,119 - outliers - INFO - MonthlyCharges_yeojohnson: 0
+2025-11-07 11:23:17,142 - outliers - INFO - TotalCharges_knn_yeojohnson: 0
+2025-11-07 11:28:53,318 - outliers - INFO - ============================================================
+2025-11-07 11:28:53,318 - outliers - INFO - 📊 TRAIN OUTLIERS COUNT PER COLUMN (IQR METHOD)
+2025-11-07 11:28:53,319 - outliers - INFO - ============================================================
+2025-11-07 11:28:53,319 - outliers - INFO - SeniorCitizen_yeojohnson: 906
+2025-11-07 11:28:53,320 - outliers - INFO - tenure_yeojohnson: 0
+2025-11-07 11:28:53,320 - outliers - INFO - MonthlyCharges_yeojohnson: 0
+2025-11-07 11:28:53,320 - outliers - INFO - TotalCharges_knn_yeojohnson: 0
+2025-11-07 11:28:53,321 - outliers - INFO - 
+============================================================
+2025-11-07 11:28:53,321 - outliers - INFO - 📊 TEST OUTLIERS COUNT PER COLUMN (IQR METHOD)
+2025-11-07 11:28:53,321 - outliers - INFO - ============================================================
+2025-11-07 11:28:53,322 - outliers - INFO - SeniorCitizen_yeojohnson: 906
+2025-11-07 11:28:53,322 - outliers - INFO - tenure_yeojohnson: 0
+2025-11-07 11:28:53,322 - outliers - INFO - MonthlyCharges_yeojohnson: 0
+2025-11-07 11:28:53,322 - outliers - INFO - TotalCharges_knn_yeojohnson: 0
+2025-11-07 11:28:53,323 - outliers - INFO - Generating histograms for columns with outliers: ['SeniorCitizen_yeojohnson']
+2025-11-07 11:56:07,341 - outliers - INFO - ============================================================
+2025-11-07 11:56:07,342 - outliers - INFO - 📊 TRAIN OUTLIERS COUNT PER COLUMN (IQR METHOD)
+2025-11-07 11:56:07,342 - outliers - INFO - ============================================================
+2025-11-07 11:56:07,343 - outliers - INFO - SeniorCitizen_yeojohnson: 906
+2025-11-07 11:56:07,343 - outliers - INFO - tenure_yeojohnson: 0
+2025-11-07 11:56:07,344 - outliers - INFO - MonthlyCharges_yeojohnson: 0
+2025-11-07 11:56:07,344 - outliers - INFO - TotalCharges_knn_yeojohnson: 0
+2025-11-07 11:56:07,344 - outliers - INFO - 
+============================================================
+2025-11-07 11:56:07,345 - outliers - INFO - 📊 TEST OUTLIERS COUNT PER COLUMN (IQR METHOD)
+2025-11-07 11:56:07,345 - outliers - INFO - ============================================================
+2025-11-07 11:56:07,345 - outliers - INFO - SeniorCitizen_yeojohnson: 906
+2025-11-07 11:56:07,345 - outliers - INFO - tenure_yeojohnson: 0
+2025-11-07 11:56:07,346 - outliers - INFO - MonthlyCharges_yeojohnson: 0
+2025-11-07 11:56:07,346 - outliers - INFO - TotalCharges_knn_yeojohnson: 0
+2025-11-07 11:56:07,346 - outliers - INFO - Generating histograms for columns with outliers: ['SeniorCitizen_yeojohnson']
+2025-11-07 12:08:00,577 - outliers - INFO - ============================================================
+2025-11-07 12:08:00,577 - outliers - INFO - 📊 TRAIN OUTLIERS COUNT PER COLUMN (IQR METHOD)
+2025-11-07 12:08:00,578 - outliers - INFO - ============================================================
+2025-11-07 12:08:00,578 - outliers - INFO - SeniorCitizen_yeojohnson: 906
+2025-11-07 12:08:00,579 - outliers - INFO - tenure_yeojohnson: 0
+2025-11-07 12:08:00,579 - outliers - INFO - MonthlyCharges_yeojohnson: 0
+2025-11-07 12:08:00,579 - outliers - INFO - TotalCharges_knn_yeojohnson: 0
+2025-11-07 12:08:00,580 - outliers - INFO - 
+============================================================
+2025-11-07 12:08:00,580 - outliers - INFO - 📊 TEST OUTLIERS COUNT PER COLUMN (IQR METHOD)
+2025-11-07 12:08:00,580 - outliers - INFO - ============================================================
+2025-11-07 12:08:00,581 - outliers - INFO - SeniorCitizen_yeojohnson: 906
+2025-11-07 12:08:00,581 - outliers - INFO - tenure_yeojohnson: 0
+2025-11-07 12:08:00,581 - outliers - INFO - MonthlyCharges_yeojohnson: 0
+2025-11-07 12:08:00,582 - outliers - INFO - TotalCharges_knn_yeojohnson: 0
+2025-11-07 12:08:00,582 - outliers - INFO - Generating histograms for columns with outliers: ['SeniorCitizen_yeojohnson']
+2025-11-07 12:09:28,476 - outliers - INFO - ============================================================
+2025-11-07 12:09:28,477 - outliers - INFO - 📊 TRAIN OUTLIERS COUNT PER COLUMN (IQR METHOD)
+2025-11-07 12:09:28,477 - outliers - INFO - ============================================================
+2025-11-07 12:09:28,478 - outliers - INFO - SeniorCitizen_yeojohnson: 906
+2025-11-07 12:09:28,478 - outliers - INFO - tenure_yeojohnson: 0
+2025-11-07 12:09:28,478 - outliers - INFO - MonthlyCharges_yeojohnson: 0
+2025-11-07 12:09:28,479 - outliers - INFO - TotalCharges_knn_yeojohnson: 0
+2025-11-07 12:09:28,479 - outliers - INFO - 
+============================================================
+2025-11-07 12:09:28,479 - outliers - INFO - 📊 TEST OUTLIERS COUNT PER COLUMN (IQR METHOD)
+2025-11-07 12:09:28,480 - outliers - INFO - ============================================================
+2025-11-07 12:09:28,480 - outliers - INFO - SeniorCitizen_yeojohnson: 906
+2025-11-07 12:09:28,480 - outliers - INFO - tenure_yeojohnson: 0
+2025-11-07 12:09:28,480 - outliers - INFO - MonthlyCharges_yeojohnson: 0
+2025-11-07 12:09:28,480 - outliers - INFO - TotalCharges_knn_yeojohnson: 0
+2025-11-07 12:09:28,480 - outliers - INFO - Generating histograms for columns with outliers: ['SeniorCitizen_yeojohnson']
+2025-11-07 12:09:31,286 - outliers - INFO - ============================================================
+2025-11-07 12:09:31,287 - outliers - INFO - 🤖 ISOLATION FOREST OUTLIER DETECTION RESULTS
+2025-11-07 12:09:31,287 - outliers - INFO - ============================================================
+2025-11-07 12:09:31,287 - outliers - INFO - Train Data Outliers Detected: 282
+2025-11-07 12:09:31,287 - outliers - INFO - Test Data Outliers Detected: 282
+2025-11-07 12:35:19,515 - outliers - INFO - ============================================================
+2025-11-07 12:35:19,516 - outliers - INFO - 📊 TRAIN OUTLIERS COUNT PER COLUMN (IQR METHOD)
+2025-11-07 12:35:19,516 - outliers - INFO - ============================================================
+2025-11-07 12:35:19,516 - outliers - INFO - SeniorCitizen_yeojohnson: 906
+2025-11-07 12:35:19,517 - outliers - INFO - tenure_yeojohnson: 0
+2025-11-07 12:35:19,517 - outliers - INFO - MonthlyCharges_yeojohnson: 0
+2025-11-07 12:35:19,517 - outliers - INFO - TotalCharges_knn_yeojohnson: 0
+2025-11-07 12:35:19,517 - outliers - INFO - 
+============================================================
+2025-11-07 12:35:19,518 - outliers - INFO - 📊 TEST OUTLIERS COUNT PER COLUMN (IQR METHOD)
+2025-11-07 12:35:19,518 - outliers - INFO - ============================================================
+2025-11-07 12:35:19,518 - outliers - INFO - SeniorCitizen_yeojohnson: 906
+2025-11-07 12:35:19,519 - outliers - INFO - tenure_yeojohnson: 0
+2025-11-07 12:35:19,519 - outliers - INFO - MonthlyCharges_yeojohnson: 0
+2025-11-07 12:35:19,519 - outliers - INFO - TotalCharges_knn_yeojohnson: 0
+2025-11-07 12:35:19,520 - outliers - INFO - Generating histograms for columns with outliers: ['SeniorCitizen_yeojohnson']
+2025-11-07 12:36:52,409 - outliers - INFO - ============================================================
+2025-11-07 12:36:52,410 - outliers - INFO - 📊 TRAIN OUTLIERS COUNT PER COLUMN (IQR METHOD)
+2025-11-07 12:36:52,410 - outliers - INFO - ============================================================
+2025-11-07 12:36:52,411 - outliers - INFO - SeniorCitizen_yeojohnson: 906
+2025-11-07 12:36:52,411 - outliers - INFO - tenure_yeojohnson: 0
+2025-11-07 12:36:52,412 - outliers - INFO - MonthlyCharges_yeojohnson: 0
+2025-11-07 12:36:52,412 - outliers - INFO - TotalCharges_knn_yeojohnson: 0
+2025-11-07 12:36:52,412 - outliers - INFO - 
+============================================================
+2025-11-07 12:36:52,413 - outliers - INFO - 📊 TEST OUTLIERS COUNT PER COLUMN (IQR METHOD)
+2025-11-07 12:36:52,413 - outliers - INFO - ============================================================
+2025-11-07 12:36:52,413 - outliers - INFO - SeniorCitizen_yeojohnson: 906
+2025-11-07 12:36:52,413 - outliers - INFO - tenure_yeojohnson: 0
+2025-11-07 12:36:52,414 - outliers - INFO - MonthlyCharges_yeojohnson: 0
+2025-11-07 12:36:52,414 - outliers - INFO - TotalCharges_knn_yeojohnson: 0
+2025-11-07 12:36:52,414 - outliers - INFO - Generating histograms for columns with outliers: ['SeniorCitizen_yeojohnson']
+2025-11-07 12:36:55,177 - outliers - INFO - ============================================================
+2025-11-07 12:36:55,177 - outliers - INFO - 🤖 ISOLATION FOREST OUTLIER DETECTION RESULTS
+2025-11-07 12:36:55,178 - outliers - INFO - ============================================================
+2025-11-07 12:36:55,178 - outliers - INFO - Train Data Outliers Detected: 282
+2025-11-07 12:36:55,179 - outliers - INFO - Test Data Outliers Detected: 282
+2025-11-07 12:37:32,478 - outliers - INFO - ============================================================
+2025-11-07 12:37:32,478 - outliers - INFO - 📈 Gaussian 3σ Outlier Detection for SeniorCitizen_yeojohnson
+2025-11-07 12:37:32,478 - outliers - INFO - ============================================================
+2025-11-07 12:37:32,479 - outliers - INFO - Train Outliers: 0
+2025-11-07 12:37:32,479 - outliers - INFO - Test Outliers: 0
+2025-11-07 12:37:39,047 - outliers - INFO - ============================================================
+2025-11-07 12:37:39,047 - outliers - INFO - 📈 Gaussian 3σ Outlier Detection for tenure_yeojohnson
+2025-11-07 12:37:39,047 - outliers - INFO - ============================================================
+2025-11-07 12:37:39,047 - outliers - INFO - Train Outliers: 0
+2025-11-07 12:37:39,048 - outliers - INFO - Test Outliers: 0
+2025-11-07 12:37:42,241 - outliers - INFO - ============================================================
+2025-11-07 12:37:42,241 - outliers - INFO - 📈 Gaussian 3σ Outlier Detection for MonthlyCharges_yeojohnson
+2025-11-07 12:37:42,242 - outliers - INFO - ============================================================
+2025-11-07 12:37:42,242 - outliers - INFO - Train Outliers: 0
+2025-11-07 12:37:42,242 - outliers - INFO - Test Outliers: 0
+2025-11-07 12:37:44,697 - outliers - INFO - ============================================================
+2025-11-07 12:37:44,697 - outliers - INFO - 📈 Gaussian 3σ Outlier Detection for TotalCharges_knn_yeojohnson
+2025-11-07 12:37:44,697 - outliers - INFO - ============================================================
+2025-11-07 12:37:44,697 - outliers - INFO - Train Outliers: 0
+2025-11-07 12:37:44,697 - outliers - INFO - Test Outliers: 0
+2025-11-07 12:50:01,134 - outliers - INFO - ============================================================
+2025-11-07 12:50:01,134 - outliers - INFO - 📊 TRAIN OUTLIERS COUNT PER COLUMN (IQR METHOD)
+2025-11-07 12:50:01,135 - outliers - INFO - ============================================================
+2025-11-07 12:50:01,135 - outliers - INFO - SeniorCitizen_yeojohnson: 906
+2025-11-07 12:50:01,135 - outliers - INFO - tenure_yeojohnson: 0
+2025-11-07 12:50:01,136 - outliers - INFO - MonthlyCharges_yeojohnson: 0
+2025-11-07 12:50:01,136 - outliers - INFO - TotalCharges_knn_yeojohnson: 0
+2025-11-07 12:50:01,136 - outliers - INFO - 
+============================================================
+2025-11-07 12:50:01,137 - outliers - INFO - 📊 TEST OUTLIERS COUNT PER COLUMN (IQR METHOD)
+2025-11-07 12:50:01,137 - outliers - INFO - ============================================================
+2025-11-07 12:50:01,137 - outliers - INFO - SeniorCitizen_yeojohnson: 906
+2025-11-07 12:50:01,137 - outliers - INFO - tenure_yeojohnson: 0
+2025-11-07 12:50:01,138 - outliers - INFO - MonthlyCharges_yeojohnson: 0
+2025-11-07 12:50:01,138 - outliers - INFO - TotalCharges_knn_yeojohnson: 0
+2025-11-07 12:50:01,138 - outliers - INFO - Generating histograms for columns with outliers: ['SeniorCitizen_yeojohnson']
+2025-11-07 12:50:03,223 - outliers - INFO - ============================================================
+2025-11-07 12:50:03,224 - outliers - INFO - 🤖 ISOLATION FOREST OUTLIER DETECTION RESULTS
+2025-11-07 12:50:03,225 - outliers - INFO - ============================================================
+2025-11-07 12:50:03,225 - outliers - INFO - Train Data Outliers Detected: 282
+2025-11-07 12:50:03,225 - outliers - INFO - Test Data Outliers Detected: 282
+2025-11-07 12:50:07,168 - outliers - INFO - ============================================================
+2025-11-07 12:50:07,168 - outliers - INFO - 📈 Gaussian 3σ Outlier Detection for SeniorCitizen_yeojohnson
+2025-11-07 12:50:07,168 - outliers - INFO - ============================================================
+2025-11-07 12:50:07,169 - outliers - INFO - Train Outliers: 0
+2025-11-07 12:50:07,169 - outliers - INFO - Test Outliers: 0
+2025-11-07 12:50:08,633 - outliers - INFO - ============================================================
+2025-11-07 12:50:08,633 - outliers - INFO - 📈 Gaussian 3σ Outlier Detection for tenure_yeojohnson
+2025-11-07 12:50:08,634 - outliers - INFO - ============================================================
+2025-11-07 12:50:08,634 - outliers - INFO - Train Outliers: 0
+2025-11-07 12:50:08,634 - outliers - INFO - Test Outliers: 0
+2025-11-07 12:50:11,371 - outliers - INFO - ============================================================
+2025-11-07 12:50:11,372 - outliers - INFO - 📈 Gaussian 3σ Outlier Detection for MonthlyCharges_yeojohnson
+2025-11-07 12:50:11,372 - outliers - INFO - ============================================================
+2025-11-07 12:50:11,372 - outliers - INFO - Train Outliers: 0
+2025-11-07 12:50:11,372 - outliers - INFO - Test Outliers: 0
+2025-11-07 12:50:13,142 - outliers - INFO - ============================================================
+2025-11-07 12:50:13,142 - outliers - INFO - 📈 Gaussian 3σ Outlier Detection for TotalCharges_knn_yeojohnson
+2025-11-07 12:50:13,142 - outliers - INFO - ============================================================
+2025-11-07 12:50:13,142 - outliers - INFO - Train Outliers: 0
+2025-11-07 12:50:13,142 - outliers - INFO - Test Outliers: 0
+2025-11-07 12:50:13,145 - outliers - INFO - SeniorCitizen_yeojohnson: Capped at 5th=-0.438, 95th=2.284
+2025-11-07 12:50:13,147 - outliers - INFO - tenure_yeojohnson: Capped at 5th=-1.655, 95th=1.350
+2025-11-07 12:50:13,148 - outliers - INFO - MonthlyCharges_yeojohnson: Capped at 5th=-1.520, 95th=1.381
+2025-11-07 12:50:13,150 - outliers - INFO - TotalCharges_knn_yeojohnson: Capped at 5th=-1.667, 95th=1.494
+2025-11-07 12:50:13,150 - outliers - INFO - caping completed successfully:['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 12:50:13,150 - outliers - INFO - caping completed successfully:['SeniorCitizen_yeojohnson', 'tenure_yeojohnson', 'MonthlyCharges_yeojohnson', 'TotalCharges_knn_yeojohnson']
+2025-11-07 12:50:13,150 - outliers - INFO - ✅ Outlier capping completed successfully for all numeric columns.
